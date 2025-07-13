@@ -2,88 +2,75 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-vong-35775b230/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/a1ex0304" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 🎓 **Computer Science student** at Western University (BSc, Minor in Software Engineering)
-- 💡 Passionate about software engineering, UI/UX design, game development, and multimedia learning tools
-- 🌱 Currently learning: AI, advanced algorithms, and full-stack web development
-- 🛠️ Tools I use: Qt, Android Studio, Git, Linux, After Effects, Pandas
-- 💬 Ask me about **C++, Python, Java**, or **how to turn ideas into real apps**
-- 📫 Reach me at: **alexander.vong34@gmail.com**
+- 🎓 **B.Sc. Computer Science** @ Western University (Minor in Software Engineering)
+- 💡 Passionate about **software engineering**, **game development**, and **UI/UX design**
+- 🎥 Currently working on multimedia mental health content at Healing Connection
+- 🛠️ Always building tools to make life easier (or more fun!)
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
 
-**Languages:**  
-`C` `C++` `Python` `Java` `JavaScript` `SQL` `HTML/CSS` `PHP` `Assembly`
-
-**Technologies & Tools:**  
-`Qt` `Android Studio` `Git` `Unix/Linux` `Junit` `Javadoc` `Pandas` `OpenAI APIs` `UML`
-
-**Concepts:**  
-`OOP` `RDBMS` `Web Development` `GUI Design` `AI Basics` `Computer Architecture`
-
----
-
-### 💼 Experience
-
-**📹 Multimedia Project Developer @ Healing Connection** (Mar 2025 – Present)  
-*Produced educational mental health videos with improved clarity and engagement.*  
-→ +15% platform engagement • +20% viewer comprehension • −30% production time
-
-**🎓 Academic Tutor** (2019 – Present)  
-*Helped students master computer science and math through personalized learning plans.*  
-→ +25% average improvement in test scores
-
-**🖥️ Technical Support Specialist @ Walmart** (2021 – 2022)  
-*Delivered IT support, set up systems, and documented solutions.*  
-→ Cut troubleshooting time by 20%
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-### 🚀 Projects
+## 📌 Projects
 
-**🧠 Basketball Wordle**  
-*Python, Pandas, HTML/CSS*  
-> Word-guessing game for NBA fans. Data-driven and web-enabled.
-
-**🏋️‍♂️ PeakStrength**  
-*C++, Qt, CSS, Git*  
-> GUI-based workout planner with 25% faster tracking and real-time feedback.
-
-**🐾 Stellar Pets**  
-*Android Studio, Java, Junit*  
-> A survival game mixing Tetris + pet care. 35% longer playtime than beta!
-
-**🎬 Movie Cinema Database**  
-*C, Unix/Linux*  
-> Terminal-based C project to manage and search movie info efficiently.
+- 🔎 [**Web Scraper**](https://github.com/a1ex0304/web-scraper) – Built a Python web scraper to extract and process data from online sources using `requests`, `BeautifulSoup`, and `Pandas`
+- 🏋️‍♂️ [**PeakStrength**](https://github.com/a1ex0304/PeakStrength) – C++/Qt GUI workout tracker with real-time feedback  
+- 🐾 [**Stellar Pets**](https://github.com/a1ex0304/StellarPets) – Android game mixing Tetris and pet survival  
+- 🎬 [**Movie Cinema Database**](https://github.com/a1ex0304/movie-cinema-database) – C-based terminal database for movies  
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Experience
+
+- **🎥 Multimedia Developer @ Healing Connection** (2025–Now)  
+  Built educational content that increased student engagement by 15% 🎓  
+- **📚 Tutor (Math & CS)** – Helped students improve by 25% on average  
+- **🛠 Tech Support @ Walmart** – Reduced internal troubleshooting time by 20%
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+## 📫 Contact Me
 
-> I love blending creativity with logic — from editing videos to engineering smarter code!
+<a href="mailto:alexander.vong34@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alexander-vong-35775b230/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
-<p align="center">Thanks for visiting! 🌟</p>
+> ⚡ _“I love blending logic and creativity — whether it’s for apps, games, or videos.”_
