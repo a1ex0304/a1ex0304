@@ -56,7 +56,7 @@ const alexander = {
       <td width="50%">
         <h3 align="center">🔎 Web Scraper</h3>
         <div align="center">  
-          <a href="https://github.com/a1ex0304/web-scraper" target="_blank">
+          <a href="https://github.com/a1ex0304/RecipeWebScraping" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=web-scraper&theme=tokyonight" alt="Web Scraper" />
           </a>
           <br>
@@ -88,7 +88,7 @@ const alexander = {
       <td width="50%">
         <h3 align="center">🎬 Movie Cinema Database</h3>
         <div align="center">  
-          <a href="https://github.com/a1ex0304/movie-cinema-database" target="_blank">
+          <a href="https://github.com/a1ex0304/MovieCinemaDatabase" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=movie-cinema-database&theme=tokyonight" alt="Movie Database" />
           </a>
           <br>
