@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Alexander+Vong+%F0%9F%91%8B;Software+Engineer+%26+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Alexander+Vong+%F0%9F%91%8B;Software+Engineer+%26+Developer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -54,10 +54,10 @@ const alexander = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔎 Web Scraper</h3>
+        <h3 align="center">🔎 Recipe Web Scraper</h3>
         <div align="center">  
           <a href="https://github.com/a1ex0304/RecipeWebScraping" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=web-scraper&theme=tokyonight" alt="Web Scraper" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=RecipeWebScraping&theme=tokyonight" alt="Recipe Web Scraper" />
           </a>
           <br>
           <p>Python web scraper using <code>requests</code>, <code>BeautifulSoup</code>, and <code>Pandas</code></p>
@@ -89,7 +89,7 @@ const alexander = {
         <h3 align="center">🎬 Movie Cinema Database</h3>
         <div align="center">  
           <a href="https://github.com/a1ex0304/MovieCinemaDatabase" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=movie-cinema-database&theme=tokyonight" alt="Movie Database" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=MovieCinemaDatabase&theme=tokyonight" alt="Movie Cinema Database" />
           </a>
           <br>
           <p>C-based terminal database for movie management</p>
