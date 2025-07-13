@@ -1,76 +1,115 @@
-<h1 align="center">Hi there, I'm Alexander Vong 👋</h1>
+🚀 About Me
+typescriptconst alexander = {
+    education: "B.Sc. Computer Science @ Western University",
+    minor: "Software Engineering",
+    passions: ["Software Engineering", "Game Development", "UI/UX Design"],
+    currentRole: "Multimedia Developer @ Healing Connection",
+    philosophy: "Blending logic and creativity to build meaningful experiences",
+    funFact: "I love building tools that make life easier (or more fun!)"
+};
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+🎓 Computer Science Student at Western University
+💻 Minor in Software Engineering - Building robust systems
+🎮 Game Development Enthusiast - Creating interactive experiences
+🎨 UI/UX Design Lover - Crafting beautiful interfaces
+🎥 Multimedia Developer - Currently enhancing mental health education
+🛠️ Problem Solver - Always building innovative solutions
+🌟 Lifelong Learner - Constantly exploring new technologies
+
+
+💻 Tech Stack
+Languages
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-vong-35775b230/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/a1ex0304" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" />
+</p>
+Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt,linux,androidstudio,git,vscode,figma" />
+</p>
+Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws" />
 </p>
 
----
+🏆 Featured Projects
+<div align="center">
+  <a href="https://github.com/a1ex0304/web-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=web-scraper&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/a1ex0304/PeakStrength">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=PeakStrength&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/a1ex0304/StellarPets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=StellarPets&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/a1ex0304/movie-cinema-database">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=movie-cinema-database&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+🔥 Project Highlights
+ProjectDescriptionTech StackImpact🔎 Web ScraperAdvanced data extraction toolPython, BeautifulSoup, PandasAutomated data processing🏋️‍♂️ PeakStrengthSmart workout tracker with real-time feedbackC++, Qt, GUIEnhanced user fitness experience🐾 Stellar PetsInnovative game mixing Tetris & pet survivalAndroid Studio, JavaUnique gaming experience🎬 Movie Cinema DatabaseTerminal-based movie management systemC, Database DesignEfficient data management
 
-## 🚀 About Me
+💼 Professional Experience
+yamlexperience:
+  - role: "Multimedia Developer"
+    company: "Healing Connection"
+    period: "2025 - Present"
+    achievements:
+      - "Increased student engagement by 15%"
+      - "Created educational multimedia content"
+      - "Improved learning outcomes through interactive design"
+  
+  - role: "Academic Tutor"
+    subjects: ["Mathematics", "Computer Science"]
+    achievements:
+      - "Helped students improve by 25% on average"
+      - "Developed personalized learning strategies"
+  
+  - role: "Tech Support Specialist"
+    company: "Walmart"
+    achievements:
+      - "Reduced troubleshooting time by 20%"
+      - "Streamlined internal processes"
 
-- 🎓 **B.Sc. Computer Science** @ Western University (Minor in Software Engineering)
-- 💡 Passionate about **software engineering**, **game development**, and **UI/UX design**
-- 🎥 Currently working on multimedia mental health content at Healing Connection
-- 🛠️ Always building tools to make life easier (or more fun!)
+📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1ex0304&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1ex0304&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
----
+🎯 Current Goals
 
-## 🛠 Skills
+🚀 Master modern web frameworks (React, Node.js)
+🎮 Develop and publish an indie game
+🌐 Contribute to major open-source projects
+📱 Build a mobile app that impacts lives positively
+🏆 Participate in hackathons and coding competitions
 
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
+🌟 Fun Facts
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
-## 📌 Projects
+🎯 I debug code faster after coffee ☕
+🎮 I once spent 48 hours straight on a game jam project
+🌙 I'm a night owl - my best code happens after midnight
+🎨 I believe good code is like good design - simple and elegant
+🚀 I'm always excited about the next tech breakthrough
 
-- 🔎 [**Web Scraper**](https://github.com/a1ex0304/web-scraper) – Built a Python web scraper to extract and process data from online sources using `requests`, `BeautifulSoup`, and `Pandas`
-- 🏋️‍♂️ [**PeakStrength**](https://github.com/a1ex0304/PeakStrength) – C++/Qt GUI workout tracker with real-time feedback  
-- 🐾 [**Stellar Pets**](https://github.com/a1ex0304/StellarPets) – Android game mixing Tetris and pet survival  
-- 🎬 [**Movie Cinema Database**](https://github.com/a1ex0304/movie-cinema-database) – C-based terminal database for movies  
 
----
-
-## 💼 Experience
-
-- **🎥 Multimedia Developer @ Healing Connection** (2025–Now)  
-  Built educational content that increased student engagement by 15% 🎓  
-- **📚 Tutor (Math & CS)** – Helped students improve by 25% on average  
-- **🛠 Tech Support @ Walmart** – Reduced internal troubleshooting time by 20%
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<a href="mailto:alexander.vong34@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/alexander-vong-35775b230/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-> ⚡ _“I love blending logic and creativity — whether it’s for apps, games, or videos.”_
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Footer"/>
+</div>
+<div align="center">
+  <sub>⚡ Built with passion, powered by curiosity, and fueled by countless cups of coffee</sub>
+</div>
