@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
@@ -31,8 +28,6 @@
   <h3>🛠️ Frameworks & Tools</h3>
   <img src="https://skillicons.dev/icons?i=qt,androidstudio,linux,git,github,vscode" alt="Tools & Frameworks" />
   
-  <h3>📊 Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,aws" alt="Databases" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
