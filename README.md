@@ -20,17 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-```
-const alexander = {
-    education: "B.Sc. Computer Science @ Western University (Minor in Software Engineering)",
-    currentRole: "Multimedia Developer @ Healing Connection",
-    passions: ["Software Engineering", "Game Development", "UI/UX Design"],
-    currentProjects: ["Mental Health Content Creation", "Tool Development"],
-    philosophy: "Building solutions that make life easier and more enjoyable",
-    funFact: "I love blending logic and creativity — whether it's apps, games, or videos"
-};
-```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
