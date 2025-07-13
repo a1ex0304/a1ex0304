@@ -1,115 +1,178 @@
-🚀 About Me
-typescriptconst alexander = {
-    education: "B.Sc. Computer Science @ Western University",
-    minor: "Software Engineering",
-    passions: ["Software Engineering", "Game Development", "UI/UX Design"],
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Alexander+Vong+%F0%9F%91%8B;Software+Engineer+%26+Developer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a1ex0304&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile views" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexander-vong-35775b230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/a1ex0304" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:alexander.vong34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```typescript
+const alexander = {
+    education: "B.Sc. Computer Science @ Western University (Minor in Software Engineering)",
     currentRole: "Multimedia Developer @ Healing Connection",
-    philosophy: "Blending logic and creativity to build meaningful experiences",
-    funFact: "I love building tools that make life easier (or more fun!)"
+    passions: ["Software Engineering", "Game Development", "UI/UX Design"],
+    currentProjects: ["Mental Health Content Creation", "Tool Development"],
+    philosophy: "Building solutions that make life easier and more enjoyable",
+    funFact: "I love blending logic and creativity — whether it's apps, games, or videos"
 };
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```
 
-🎓 Computer Science Student at Western University
-💻 Minor in Software Engineering - Building robust systems
-🎮 Game Development Enthusiast - Creating interactive experiences
-🎨 UI/UX Design Lover - Crafting beautiful interfaces
-🎥 Multimedia Developer - Currently enhancing mental health education
-🛠️ Problem Solver - Always building innovative solutions
-🌟 Lifelong Learner - Constantly exploring new technologies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 
-💻 Tech Stack
-Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" />
-</p>
-Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,linux,androidstudio,git,vscode,figma" />
-</p>
-Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws" />
-</p>
-
-🏆 Featured Projects
 <div align="center">
-  <a href="https://github.com/a1ex0304/web-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=web-scraper&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/a1ex0304/PeakStrength">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=PeakStrength&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/a1ex0304/StellarPets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=StellarPets&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/a1ex0304/movie-cinema-database">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=movie-cinema-database&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-🔥 Project Highlights
-ProjectDescriptionTech StackImpact🔎 Web ScraperAdvanced data extraction toolPython, BeautifulSoup, PandasAutomated data processing🏋️‍♂️ PeakStrengthSmart workout tracker with real-time feedbackC++, Qt, GUIEnhanced user fitness experience🐾 Stellar PetsInnovative game mixing Tetris & pet survivalAndroid Studio, JavaUnique gaming experience🎬 Movie Cinema DatabaseTerminal-based movie management systemC, Database DesignEfficient data management
-
-💼 Professional Experience
-yamlexperience:
-  - role: "Multimedia Developer"
-    company: "Healing Connection"
-    period: "2025 - Present"
-    achievements:
-      - "Increased student engagement by 15%"
-      - "Created educational multimedia content"
-      - "Improved learning outcomes through interactive design"
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" alt="Programming Languages" />
   
-  - role: "Academic Tutor"
-    subjects: ["Mathematics", "Computer Science"]
-    achievements:
-      - "Helped students improve by 25% on average"
-      - "Developed personalized learning strategies"
+  <h3>🛠️ Frameworks & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=qt,androidstudio,linux,git,github,vscode" alt="Tools & Frameworks" />
   
-  - role: "Tech Support Specialist"
-    company: "Walmart"
-    achievements:
-      - "Reduced troubleshooting time by 20%"
-      - "Streamlined internal processes"
-
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1ex0304&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1ex0304&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <h3>📊 Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,aws" alt="Databases" />
 </div>
 
-🎯 Current Goals
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🚀 Master modern web frameworks (React, Node.js)
-🎮 Develop and publish an indie game
-🌐 Contribute to major open-source projects
-📱 Build a mobile app that impacts lives positively
-🏆 Participate in hackathons and coding competitions
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
 
-
-🌟 Fun Facts
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔎 Web Scraper</h3>
+        <div align="center">  
+          <a href="https://github.com/a1ex0304/web-scraper" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=web-scraper&theme=tokyonight" alt="Web Scraper" />
+          </a>
+          <br>
+          <p>Python web scraper using <code>requests</code>, <code>BeautifulSoup</code>, and <code>Pandas</code></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏋️‍♂️ PeakStrength</h3>
+        <div align="center">  
+          <a href="https://github.com/a1ex0304/PeakStrength" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=PeakStrength&theme=tokyonight" alt="PeakStrength" />
+          </a>
+          <br>
+          <p>C++/Qt GUI workout tracker with real-time feedback</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🐾 Stellar Pets</h3>
+        <div align="center">  
+          <a href="https://github.com/a1ex0304/StellarPets" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=StellarPets&theme=tokyonight" alt="Stellar Pets" />
+          </a>
+          <br>
+          <p>Android game mixing Tetris and pet survival mechanics</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎬 Movie Cinema Database</h3>
+        <div align="center">  
+          <a href="https://github.com/a1ex0304/movie-cinema-database" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1ex0304&repo=movie-cinema-database&theme=tokyonight" alt="Movie Database" />
+          </a>
+          <br>
+          <p>C-based terminal database for movie management</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-🎯 I debug code faster after coffee ☕
-🎮 I once spent 48 hours straight on a game jam project
-🌙 I'm a night owl - my best code happens after midnight
-🎨 I believe good code is like good design - simple and elegant
-🚀 I'm always excited about the next tech breakthrough
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Professional Experience
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Footer"/>
+  <table>
+    <tr>
+      <td>
+        <h3>🎥 Multimedia Developer</h3>
+        <p><strong>Healing Connection</strong> • 2025 - Present</p>
+        <p>• Built educational content that increased student engagement by 15%</p>
+        <p>• Developed multimedia solutions for mental health education</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>📚 Academic Tutor</h3>
+        <p><strong>Mathematics & Computer Science</strong></p>
+        <p>• Helped students improve academic performance by 25% on average</p>
+        <p>• Specialized in algorithm design and mathematical problem-solving</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>🛠️ Technical Support Specialist</h3>
+        <p><strong>Walmart</strong></p>
+        <p>• Reduced internal troubleshooting time by 20%</p>
+        <p>• Provided technical solutions and system optimization</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+
 <div align="center">
-  <sub>⚡ Built with passion, powered by curiosity, and fueled by countless cups of coffee</sub>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1ex0304&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ex0304&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1ex0304&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1ex0304&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexander-vong-35775b230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alexander.vong34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/a1ex0304" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
+</div>
+
+---
+<div align="center">
+  <h3>💭 "Building the future, one commit at a time"</h3>
+  <p>⚡ Passionate about creating innovative solutions that bridge technology and creativity</p>
 </div>
